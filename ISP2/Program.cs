@@ -21,7 +21,7 @@ namespace ISP2
                 //Console.WriteLine("Среднее арифметическое:{0:F2}",sa);
                 //Console.WriteLine("Среднее геометрическое:{0:F2}",sg);
 
-                //const double b = 4.2;
+                const double b = 4.2;
                 //Console.Write("Введите число t:");
                 //double t = double.Parse(Console.ReadLine());
                 //double a = t + b * b * b;
